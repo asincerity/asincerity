@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+🔭 I’m currently studying as a Phd
+🌱 I’m currently learning single-molecule imaging and deeplearning
 <!--
 **asincerity/asincerity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
